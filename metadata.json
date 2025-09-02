@@ -1,0 +1,5 @@
+{
+  "name": "AIHistoryLine",
+  "description": "An app that generates a historical timeline based on user prompts using AI.",
+  "requestFramePermissions": []
+}
